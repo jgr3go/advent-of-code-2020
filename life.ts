@@ -2,6 +2,7 @@
 import * as _ from 'lodash';
 
 
+
 class Manager {
   grid: Grid;
   iterations: number = 0;

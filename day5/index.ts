@@ -72,3 +72,7 @@ function part2() {
 readFile();
 part1();
 part2();
+
+
+//'FBFBBFF'
+//'0101100' = 0 + 0 + 4 + 8 + 32 = 44 
