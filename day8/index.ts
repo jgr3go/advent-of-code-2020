@@ -1,7 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import * as _ from 'lodash';
-import { dir } from 'console';
 
 let data: string[] = [];
 let instructions: Instruction[] = [];
